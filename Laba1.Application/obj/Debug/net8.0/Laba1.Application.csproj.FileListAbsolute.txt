@@ -1,0 +1,15 @@
+D:\VisualStudio Projects\Laba1\Laba1.Application\bin\Debug\net8.0\Laba1.Application.deps.json
+D:\VisualStudio Projects\Laba1\Laba1.Application\bin\Debug\net8.0\Laba1.Application.dll
+D:\VisualStudio Projects\Laba1\Laba1.Application\bin\Debug\net8.0\Laba1.Application.pdb
+D:\VisualStudio Projects\Laba1\Laba1.Application\bin\Debug\net8.0\Laba1.Domain.dll
+D:\VisualStudio Projects\Laba1\Laba1.Application\bin\Debug\net8.0\Laba1.Domain.pdb
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\Laba1.Application.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\Laba1.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\Laba1.Application.AssemblyInfoInputs.cache
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\Laba1.Application.AssemblyInfo.cs
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\Laba1.Application.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\Laba1.Ap.C3F6E866.Up2Date
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\Laba1.Application.dll
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\refint\Laba1.Application.dll
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\Laba1.Application.pdb
+D:\VisualStudio Projects\Laba1\Laba1.Application\obj\Debug\net8.0\ref\Laba1.Application.dll

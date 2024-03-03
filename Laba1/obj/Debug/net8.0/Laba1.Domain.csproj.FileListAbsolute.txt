@@ -1,0 +1,11 @@
+D:\VisualStudio Projects\Laba1\Laba1\bin\Debug\net8.0\Laba1.Domain.deps.json
+D:\VisualStudio Projects\Laba1\Laba1\bin\Debug\net8.0\Laba1.Domain.dll
+D:\VisualStudio Projects\Laba1\Laba1\bin\Debug\net8.0\Laba1.Domain.pdb
+D:\VisualStudio Projects\Laba1\Laba1\obj\Debug\net8.0\Laba1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio Projects\Laba1\Laba1\obj\Debug\net8.0\Laba1.Domain.AssemblyInfoInputs.cache
+D:\VisualStudio Projects\Laba1\Laba1\obj\Debug\net8.0\Laba1.Domain.AssemblyInfo.cs
+D:\VisualStudio Projects\Laba1\Laba1\obj\Debug\net8.0\Laba1.Domain.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Laba1\Laba1\obj\Debug\net8.0\Laba1.Domain.dll
+D:\VisualStudio Projects\Laba1\Laba1\obj\Debug\net8.0\refint\Laba1.Domain.dll
+D:\VisualStudio Projects\Laba1\Laba1\obj\Debug\net8.0\Laba1.Domain.pdb
+D:\VisualStudio Projects\Laba1\Laba1\obj\Debug\net8.0\ref\Laba1.Domain.dll
